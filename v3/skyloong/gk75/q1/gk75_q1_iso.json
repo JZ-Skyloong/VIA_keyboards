@@ -1,5 +1,5 @@
 {
-  "name": "Skyloong gk75_q1_ansi",
+  "name": "Skyloong gk75_q1_iso",
   "vendorId": "0x1EA7",
   "productId": "0x6076",
   "keycodes": ["qmk_lighting"],
