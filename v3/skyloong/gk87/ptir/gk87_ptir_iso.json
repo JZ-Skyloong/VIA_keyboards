@@ -67,7 +67,7 @@
     "matrix": {"rows": 6, "cols": 16},
     "layouts": {
       "labels": [
-        "Split_space"
+        ["Space_Select","Split_space","Long_Space"]
       ],
       "keymap": [
         [
