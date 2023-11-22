@@ -1,5 +1,5 @@
 {
-    "name": "Skyloong Gk68 Pro",
+    "name": "Skyloong QMK68",
     "vendorId": "0x1EA7",
     "productId": "0x6068",
     "keycodes": ["qmk_lighting"],
