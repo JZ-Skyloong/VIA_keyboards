@@ -1,5 +1,5 @@
 {
-    "name": "Skyloong Gk87 PTIR_ISO",
+    "name": "Skyloong GK87 OPTICAL_ISO",
     "vendorId": "0x1EA7",
     "productId": "0x6088",
     "keycodes": ["qmk_lighting"],
